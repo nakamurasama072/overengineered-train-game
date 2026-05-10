@@ -42,7 +42,7 @@ This repository has **no intention** of defaming, attacking, or insulting any in
 
 This repository exists **only for education and warning**. Therefore, **I will NOT accept any issues or pull requests regarding the code**. However, it is perfectly fine to use it for personal study or research.
 
-Please, **DO NOT** try to “fix” it and bother me — that would completely miss the point. The code is broken by design to serve as a warning. If you want to see a correct implementation, please **look elsewhere** or **ask GenAI (ChatGPT, Claude, Gemini, Mistral AI, DeepSeek, GLM, MiniMax, etc.) for advice**. If you want to argue about design choices... then congratulations, you have already understood the lesson.
+Please, **DO NOT** try to “fix” it and bother me — that would completely miss the point. The architecture of this whole project is a total mess, just to serve as a cautionary example. If you want to see a correct implementation, please **look elsewhere** or **ask GenAI (ChatGPT, Claude, Gemini, Mistral AI, DeepSeek, GLM, MiniMax, etc.) for advice**. If you want to argue about design choices... then congratulations, you have already understood the lesson.
 
 ## Final Words
 
