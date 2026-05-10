@@ -38,7 +38,7 @@ If you are a student learning object‑oriented programming, this is the perfect
 
 This repository has **no intention** of defaming, attacking, or insulting any individual, team, or educational institution. I mean no offense to anyone — least of all my two teammates, who are skilled developers working with the tools they were taught. The code is shared solely as a **negative** example for learning or researching purposes. All lessons here are lessons about code, not about people.
 
-Repository Policy
+## Repository Policy
 
 This repository exists **only for education and warning**. Therefore, **I will NOT accept any issues or pull requests regarding the code**. However, it is perfectly fine to use it for personal study or research.
 
